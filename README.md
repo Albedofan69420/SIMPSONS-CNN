@@ -8,3 +8,7 @@ El objetivo general de este proyecto es el implementar un modelo CNN que sea cap
 El documento .ipynb adjunto al repositorio debe ser ejecutado en un entorno que sea capaz de soportar redes neuronales. En este caso, se recomienda la utilización de la plataforma "Colab" proporcionada por Google y configurar el acelerador por hardware a "GPU T4", el cual se encuentra dentro del menú de cambios del entorno de ejecución asociado.
 
 Tras aplicar los cambios en el entorno de ejecución, puede descargar y abrir el cuaderno en la plataforma, conectandose al entorno alojado en la esquina superior derecha. El informe sigue un orden secuencial de ejecución, por lo que debe ejecutarlo en el orden predefinido por este. Puede ejecutar todas las celdas de forma secuencial al hacer click en el botón "Ejecutar todas", alojado en la barra superior a la visualización del cuaderno.
+
+## PDF ejecutado
+
+Además de incluir el documento con el modelo desarrollado en .ipynb, también se facilitó un pdf con todos los bloques de código ya ejecutados, con el propósito de facilitar la visualización de los resultados obtenidos por el grupo.
